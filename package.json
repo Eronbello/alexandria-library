@@ -1,6 +1,6 @@
 {
   "name": "alexandria-library",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -10,6 +10,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
+  "repository": "https://github.com/Eronbello/alexandria-library",
   "author": "Eron Bello",
   "license": "ISC",
   "devDependencies": {
