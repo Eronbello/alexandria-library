@@ -13,9 +13,7 @@
 
 Project to be used as a basis for new design systems projects
 
-## :rocket: Technologies
-
-This project was developed for a test with the following technologies:
+## :computer: Technologies
 
 - [react](https://vuejs.org/)
 - [storybook](https://nuxtjs.org/)
