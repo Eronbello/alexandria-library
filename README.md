@@ -22,7 +22,7 @@ Project to be used as a basis for new design systems projects
 
 ## Installation
 
-Use the package manager [NPM](https://www.npmjs.com/) to install foobar.
+Use the package manager [NPM](https://www.npmjs.com/) to install Alexandria Library.
 
 ```bash
 npm install alexandria-library
